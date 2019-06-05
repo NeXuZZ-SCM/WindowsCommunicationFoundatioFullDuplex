@@ -1,0 +1,10 @@
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\bin\Debug\ClienteWF_Duplex.exe.config
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\bin\Debug\ClienteWF_Duplex.exe
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\bin\Debug\ClienteWF_Duplex.pdb
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.csprojAssemblyReference.cache
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.Form1.resources
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.Properties.Resources.resources
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.csproj.GenerateResource.cache
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.csproj.CoreCompileInputs.cache
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.exe
+C:\Users\nexuz\source\repos\ClienteWF_Duplex\ClienteWF_Duplex\obj\Debug\ClienteWF_Duplex.pdb
