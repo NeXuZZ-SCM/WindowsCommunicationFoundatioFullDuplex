@@ -1,0 +1,7 @@
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\bin\Debug\ClienteWCFFullDuplex.exe.config
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\bin\Debug\ClienteWCFFullDuplex.exe
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\bin\Debug\ClienteWCFFullDuplex.pdb
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\obj\Debug\ClienteWCFFullDuplex.csprojAssemblyReference.cache
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\obj\Debug\ClienteWCFFullDuplex.csproj.CoreCompileInputs.cache
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\obj\Debug\ClienteWCFFullDuplex.exe
+C:\Users\nexuz\source\repos\ClienteWCFFullDuplex\ClienteWCFFullDuplex\obj\Debug\ClienteWCFFullDuplex.pdb
